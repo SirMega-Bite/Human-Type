@@ -5,6 +5,6 @@ Types with a random delay between letters and sometimes deletes and rewrites wor
 
 # How to use
 Download Autohotkey (Must be v2 or higher) https://www.autohotkey.com/v2/
-Run the script with the AutoHotkey Launcher
-Press CTRL + SHIFT + V to start typing
-Press ESC to pause the script, and END to terminate it
+Run the script with the AutoHotkey Launcher.
+Press **CTRL + SHIFT + V** to start typing.
+Press **ESC** to pause the script, and **END** to terminate it.
