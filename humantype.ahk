@@ -56,7 +56,7 @@ SlowType(str, typeSpeed) {
     }
 }
 
-^+v::SlowType(A_Clipboard, 0.4)
+^+v::SlowType(A_Clipboard, 0.4) ; (Inputs the clipboard, and a typing speed of .4)
 
 #SuspendExempt
 Esc:: {
